@@ -9,14 +9,14 @@ public class EntityHolder {
 	public static CategoryList getCategoryList() {
 		return categoryList;
 	}
-	public static void setCategoryList(CategoryList categoryList) {
-		categoryList = categoryList;
+	public static void setCategoryList(CategoryList aCategoryList) {
+		categoryList = aCategoryList;
 	}
 	public static TodoList getTodoList() {
 		return todoList;
 	}
-	public static void setTodoList(TodoList todoList) {
-		todoList = todoList;
+	public static void setTodoList(TodoList aTodoList) {
+		todoList = aTodoList;
 	}
 	
 	
